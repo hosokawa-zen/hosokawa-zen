@@ -15,7 +15,7 @@
   <tr>
       <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/docker.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/meteor.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/jitsi.png?raw=true" width="200" style="background-color: steelblue"></td>
+      <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/jitsi.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/rocket_chat.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/aws.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/blockchain.png?raw=true" width="200"></td>
