@@ -1,16 +1,72 @@
-### Hi there 👋
+<p align='center'>
+<a href="https://t.me/kroim1202">
+  <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://join.skype.com/invite/eumi2mzscGm8">
+  <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kroim1202">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:wonderfulplayer@outlook.com">
+  <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+</p>
 
-<!--
-**kzar1102/kzar1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 𝐒𝐤𝐢𝐥𝐥s
+<table>
+  <tr>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
+  </tr>
+  <tr>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_apple.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_android.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_swift.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_java.png?raw=true" width="200"></td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+### Projects
+<table>
+    <thead align="center">
+        <tr>
+            <td>NFT Contracts</td>
+            <td>NFT Marketplace</td>
+            <td>PIVX Wallet</td>           
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <a href="https://github.com/kroim/BrandonToken-NFT">
+                    <img src="https://github.com/kroim/profile/blob/master/projects/NFT_BrandonContract.png?raw=true" width="200">
+                    <p align="center">BrandonToken - NFT contract</p>
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/kroim/BrandonMarketing-Contract">
+                    <img src="https://github.com/kroim/profile/blob/master/projects/NFT_BrandonMarket.png?raw=true" width="200">
+                    <p align="center">BrandonMarket - Marketing contract</p>
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/kroim/Agenor-Android">
+                    <img src="https://github.com/kroim/profile/blob/master/projects/Agenor_Android.jpg?raw=true" width="200">
+                    <p align="center">Android Wallet for AgenorCoin</p>
+                </a>
+            </td>            
+        </tr>
+    </tbody>        
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
