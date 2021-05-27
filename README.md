@@ -13,57 +13,24 @@
 ### 𝐒𝐤𝐢𝐥𝐥s
 <table>
   <tr>
-      <td><img src="https://github.com/kzar1102/profile/icons/rocket_chat.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kzar1102/profile/icons/rocket_chat.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kzar1102/profile/icons/rocket_chat.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kzar1102/profile/icons/rocket_chat.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kzar1102/profile/icons/rocket_chat.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kzar1102/profile/icons/rocket_chat.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kzar1102/profile/icons/rocket_chat.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/docker.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/meteor.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/jitsi.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/rocket_chat.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/aws.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/blockchain.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/bitcoin.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/ethereum.png?raw=true" width="200"></td>
   </tr>
   <tr>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
+      <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/python.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_apple.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_android.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_swift.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_java.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/dart.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/flutter.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/java.png?raw=true" width="200"></td>
   </tr>
-</table>
-
-### Projects
-<table>
-    <thead align="center">
-        <tr>
-            <td>NFT Contracts</td>
-            <td>NFT Marketplace</td>
-            <td>PIVX Wallet</td>           
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <a href="https://github.com/kroim/BrandonToken-NFT">
-                    <img src="https://github.com/kroim/profile/blob/master/projects/NFT_BrandonContract.png?raw=true" width="200">
-                    <p align="center">BrandonToken - NFT contract</p>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/kroim/BrandonMarketing-Contract">
-                    <img src="https://github.com/kroim/profile/blob/master/projects/NFT_BrandonMarket.png?raw=true" width="200">
-                    <p align="center">BrandonMarket - Marketing contract</p>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/kroim/Agenor-Android">
-                    <img src="https://github.com/kroim/profile/blob/master/projects/Agenor_Android.jpg?raw=true" width="200">
-                    <p align="center">Android Wallet for AgenorCoin</p>
-                </a>
-            </td>            
-        </tr>
-    </tbody>        
 </table>
 
