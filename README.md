@@ -1,9 +1,3 @@
-<p align='center'>
-<a href="mailto:kzar1102@outlook.com">
-  <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-</p>
-
 ### 𝐒𝐤𝐢𝐥𝐥s
 <table>
   <tr>
@@ -27,4 +21,10 @@
       <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/java.png?raw=true" width="200"></td>
   </tr>
 </table>
+<p align='center'>
+<a href="mailto:kzar1102@outlook.com">
+  <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+</p>
+
 
