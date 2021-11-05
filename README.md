@@ -1,14 +1,14 @@
 ### 𝐒𝐤𝐢𝐥𝐥s
 <table>
   <tr>
+      <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/blockchain.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/bitcoin.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/ethereum.png?raw=true" width="200"></td>  
       <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/docker.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/meteor.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/jitsi.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/rocket_chat.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/aws.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/blockchain.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/bitcoin.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kzar1102/kzar1102/blob/main/assets/icons/ethereum.png?raw=true" width="200"></td>
   </tr>
   <tr>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
