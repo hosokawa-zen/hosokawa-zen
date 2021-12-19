@@ -15,4 +15,4 @@
 
 ![Hosokawa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hosokawa-zen&count_private=true&show_icons=true&theme=tokyonight)
 
-![Hosokawa's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=bmstar2012&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+![Hosokawa's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=hosokawa-zen&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
