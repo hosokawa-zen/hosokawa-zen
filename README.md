@@ -2,13 +2,13 @@
 ### **_Contact Details_**
 
 <p align='center'>
-<a href="https://t.me/bmstar2012" target="_blank">
+<a href="https://t.me/hosokawazen" target="_blank">
   <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/louis-go-a94690227/"  target="_blank">
+<a href="https://www.linkedin.com/in/hosokawa-zen-1a9193181/"  target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="mailto:bmstar2012@gmail.com">
+<a href="mailto:kzar@gmail.com">
   <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
