@@ -27,7 +27,7 @@
 
 <p align="left">
     <a href="https://ethers.org/" target="_blank" rel="noreferrer"> <img
-            src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/256/Ethereum-ETH-icon.png" alt="ethereum" width="40"
+            src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" alt="ethereum" width="40"
             height="40"/> </a>
     <a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer"> <img
             src="https://docs.soliditylang.org/en/v0.8.10/_static/logo.svg" alt="solidity" width="40"
