@@ -32,6 +32,9 @@
     <a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer"> <img
             src="https://docs.soliditylang.org/en/v0.8.10/_static/logo.svg" alt="solidity" width="40"
             height="40"/> </a>
+    <a href="https://www.binance.com/" target="_blank" rel="noreferrer"> <img
+          src="https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201110/550eda20-1b9a-4bc7-9a65-e4a329e8bb57.png" alt="ethereum" width="40"
+          height="40"/> </a>
     <a href="https://solana.com/" target="_blank" rel="noreferrer"> <img
             src="https://avatars.githubusercontent.com/u/35608259?s=200&v=4" alt="solana" width="40"
             height="40"/> </a>
