@@ -35,6 +35,12 @@
     <a href="https://www.binance.com/" target="_blank" rel="noreferrer"> <img
           src="https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png" alt="binance" width="40"
           height="40"/> </a>
+    <a href="https://www.avax.network/" target="_blank" rel="noreferrer"> <img
+        src="https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png" alt="avalanche" width="40"
+        height="40"/> </a>
+    <a href="https://polygon.technology/" target="_blank" rel="noreferrer"> <img
+        src="https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png" alt="polygon" width="40"
+        height="40"/> </a>
     <a href="https://solana.com/" target="_blank" rel="noreferrer"> <img
             src="https://avatars.githubusercontent.com/u/35608259?s=200&v=4" alt="solana" width="40"
             height="40"/> </a>
