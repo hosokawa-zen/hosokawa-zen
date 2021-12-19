@@ -82,6 +82,9 @@
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
          alt="laravel" width="40" height="40"/> </a>
+    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+      <img src="  https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png"
+         alt="swift" width="40" height="40"/> </a>
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
     <a
