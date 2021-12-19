@@ -51,6 +51,12 @@
                                                          rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"
         width="40" height="40"/> </a>
+   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+        width="40" height="40"/> </a>
+   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+        alt="nodejs" width="40" height="40"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
         alt="typescript" width="40" height="40"/> </a>
@@ -77,19 +83,13 @@
         alt="mysql" width="40" height="40"/> </a>
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
-        width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs" width="40" height="40"/> </a>
+                                                                           width="40" height="40"/> </a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"
         height="40"/> </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
         alt="postgresql" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-        width="40" height="40"/> </a>
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
         width="40" height="40"/> </a>
