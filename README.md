@@ -1,3 +1,7 @@
+## I am a blockchain developer in DeFi and NFT, DAO projects.
+- Fork of PancakeSwap, GooseDeFi, PantherSwap, Pinksale, OlympusDao.
+- NFT Mint websites like Cryptopunks, NFT marketplaces like BSC nft marketplace.
+- Smart contracts for erc20, erc721, erc1155 with token pre-sale, tokenomics, redistribution, auction etc.
 
 ### **_Contact Details_**
 
@@ -117,3 +121,112 @@
         src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </a>
 </p>
+
+
+### DeFi Experiences
+
+- DEX
+<table>
+<thead align="center">
+        <tr>
+            <td>CinemaDraft DEX</td>
+            <td>SiShiSwap</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://cd3d-silk.vercel.app/">
+                <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/cd3d.png?raw=true" width="200">
+            </a>
+        </td>          
+        <td>
+            <a href="https://app.sishi.finance/">
+                <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/sishi.png?raw=true" width="200">
+            </a>
+        </td>
+    </tr>  
+</table>
+
+- NFT Mint Dapps
+<table>
+    <thead align="center">
+        <tr>
+            <td>Funkiverse</td>
+            <td>CryptoPigs</td>           
+            <td>Gost</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://funkifoxes.com/">
+                <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/funkiverse_2.png?raw=true" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="https://cryptopigs.one/#/">
+                <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/cryptopigs_2.png?raw=true" width="200">
+            </a>
+        </td> 
+        <td>
+            <a href="https://crypto-swords.com/">
+                <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/gost_2.png?raw=true" width="200">
+            </a>
+        </td>
+    </tr>
+</table>
+
+- Web Sites (Laravel + Vue, Node + React)
+<table>
+    <thead align="center">
+        <tr>
+            <td>Sellersket-Price</td>
+            <td>Luthorr</td>
+            <td>Monitoring</td>
+            <td>Omula</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://sellersket-price.com/">
+                <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/Image 2.png?raw=true" width="200">
+            </a>
+        </td>        
+        <td>
+            <a href="https://deduraku.sakura.ne.jp/">
+                <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/cms_1.png?raw=true" width="200">
+            </a>
+        </td> 
+        <td>
+            <a href="https://www.m-piece.com/">
+                <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/monitoring_2.png?raw=true" width="200">
+            </a>
+        </td> 
+        <td>
+            <a href="https://omula.com/">
+                <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/omula_1.png?raw=true" width="200">
+            </a>
+        </td>     
+    </tr>
+</table>
+
+- Mobile Apps (Flutter, ReactNative)
+<table>
+    <thead align="center">
+        <tr>
+            <td>エアレペルソナ</td>
+            <td>Funtivity</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://sellersket-price.com/">
+                <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/airlex_1.png?raw=true" width="200">
+            </a>
+        </td>        
+        <td>
+            <a href="https://deduraku.sakura.ne.jp/">
+                <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/funtivity.png?raw=true" width="200">
+            </a>
+        </td>
+    </tr>
+</table>
