@@ -123,7 +123,7 @@
 </p>
 
 
-### DeFi Experiences
+### Experiences
 
 - DEX
 <table>
