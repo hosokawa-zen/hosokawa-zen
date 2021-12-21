@@ -135,7 +135,7 @@
     </thead>
     <tr>
         <td>
-            <a href="https://cd3d-silk.vercel.app/">
+            <a href="http://18.116.235.55/">
                 <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/cd3d.png?raw=true" width="200">
             </a>
         </td>          
