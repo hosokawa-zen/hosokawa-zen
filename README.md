@@ -139,7 +139,7 @@
             </a>
         </td>
         <td>
-            <a href="https://crypto-swords.com/">
+            <a href="https://nft.s2paganini.com">
                 <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/nini.png?raw=true" width="200">
             </a>
         </td>
