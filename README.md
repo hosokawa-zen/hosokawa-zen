@@ -129,7 +129,7 @@
 <table>
 <thead align="center">
         <tr>
-            <td>CinemaDraft DEX</td>
+            <td>CinemaDraft DeFi</td>
             <td>SiShiSwap</td>
         </tr>
     </thead>
@@ -147,13 +147,14 @@
     </tr>  
 </table>
 
-- NFT Mint Dapps
+- NFT Mint Dapps & Marketplaces
 <table>
     <thead align="center">
         <tr>
             <td>Funkiverse</td>
             <td>CryptoPigs</td>           
             <td>Gost</td>
+            <td>Paganini</td>
         </tr>
     </thead>
     <tr>
@@ -170,6 +171,11 @@
         <td>
             <a href="https://crypto-swords.com/">
                 <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/gost_2.png?raw=true" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="https://crypto-swords.com/">
+                <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/nini.png?raw=true" width="200">
             </a>
         </td>
     </tr>
