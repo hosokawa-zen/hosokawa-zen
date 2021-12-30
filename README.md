@@ -15,6 +15,9 @@
 <a href="mailto:kzar@gmail.com">
   <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
+<a href="https://discordapp.com/users/Hosokawa-Zen#1233">
+  <img src="https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=discord&logoColor=white" />
+</a>&nbsp;&nbsp;
 </p>
 
 <p>
