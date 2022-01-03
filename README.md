@@ -151,7 +151,7 @@
     <thead align="center">
         <tr>
             <td>Sellersket-Price</td>
-            <td>Luthorr</td>
+            <td>Construction Business</td>
             <td>Monitoring</td>
             <td>Omula</td>
         </tr>
