@@ -90,7 +90,7 @@
 
 ### Experiences
 
-- DEX
+- DEFI
 <table>
 <thead align="center">
         <tr>
