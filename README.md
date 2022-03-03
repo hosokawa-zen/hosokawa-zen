@@ -28,7 +28,7 @@
   </a>
   
   <a href="https://github.com/hosokawa-zen/hosokawa-zen" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=hosokawa-zen&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=java,html,javascript,css,scss,objective-c,swift,blade,dart,php,tsql,shell,batchfile" alt="Hosokawa's GitHub Stats" height="180px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=hosokawa-zen&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=java,html,javascript,css,scss,vue,objective-c,swift,blade,dart,php,tsql,shell,batchfile" alt="Hosokawa's GitHub Stats" height="180px"/>
   </a>
  </p>  
 
