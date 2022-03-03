@@ -2,8 +2,9 @@
 - Lanuages: Solidity, Rust, C++, Go
 - Fork of PancakeSwap, GooseDeFi, PantherSwap, Pinksale, OlympusDao.
 - NFT Mint websites like Cryptopunks, NFT marketplaces like BSC nft marketplace.
-- Smart contracts for erc20, erc721, erc1155 with token pre-sale, tokenomics, redistribution, auction etc.
+- Smart contracts for erc20, erc721, erc1155, eip677, eip2535 with token pre-sale, tokenomics, redistribution, auction, airdrop, crowdfunding etc.
 - Blockchain Networks: Etherium, BSC, Solana, Tron, Avalanche, Hamony, EOS, Polygon, Telos, WAX, NEO & its derivative chains.
+- Focused in security, upgradability, unit test, gas optimization
 
 ### **_Contact Details_**
 
