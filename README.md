@@ -1,4 +1,4 @@
-<h1 align="center">Smart Contract Developer on EVM, Solana, EOS</h1>
+<h2 align="center">Smart Contract Developer on EVM, Solana, EOS</h2>
 
 ## About Me
 - Lanuages: Solidity, Rust, Go, C++, Substrate
@@ -8,7 +8,7 @@
 - Most used frameworks: hardhat, truffle, anchor
 - Experienced: swap, staking, pool, airdrop, farming, governance, auction on DeFi, Dex, NFT, DAO
 
-![](https://komarev.com/ghpvc/?username=hiccup1991&label=PROFILE+VIEWS&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=hosokawa-zen&label=PROFILE+VIEWS&color=brightgreen)
 
 ### **_Contact Details_**
 
