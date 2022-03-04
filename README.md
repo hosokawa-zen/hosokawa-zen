@@ -1,3 +1,4 @@
+<h1 align="center">Smart Contract Developer on EVM, Solana, EOS</h1>
 ## I am a blockchain developer in DeFi and NFT, DAO projects.
 - Lanuages: Solidity, Rust, C++, Go
 - Fork of PancakeSwap, GooseDeFi, PantherSwap, Pinksale, OlympusDao.
