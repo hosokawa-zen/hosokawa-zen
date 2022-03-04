@@ -76,116 +76,28 @@
 </p>
 
 
-### Experiences
+### My Projects
 
 - DeFi
-<table>
-<thead align="center">
-        <tr>
-            <td>CinemaDraft DeFi</td>
-            <td>SiShiSwap</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="http://18.116.235.55/">
-                <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/cd3d.png?raw=true" width="200">
-            </a>
-        </td>          
-        <td>
-            <a href="https://app.sishi.finance/">
-                <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/sishi.png?raw=true" width="200">
-            </a>
-        </td>
-    </tr>  
-</table>
 
-- NFT Mint Dapps & Marketplaces
-<table>
-    <thead align="center">
-        <tr>
-            <td>Funkiverse</td>
-            <td>CryptoPigs</td>           
-            <td>Gost</td>
-            <td>Paganini</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://funkifoxes.com/">
-                <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/funkiverse_2.png?raw=true" width="200">
-            </a>
-        </td>
-        <td>
-            <a href="https://cryptopigs.one/#/">
-                <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/cryptopigs_2.png?raw=true" width="200">
-            </a>
-        </td> 
-        <td>
-            <a href="https://crypto-swords.com/">
-                <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/gost_2.png?raw=true" width="200">
-            </a>
-        </td>
-        <td>
-            <a href="https://nft.s2paganini.com">
-                <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/nini.png?raw=true" width="200">
-            </a>
-        </td>
-    </tr>
-</table>
+[Theia Finance](https://theia.finance/)<br>
+[CinemaDraft DeFi](http://18.116.235.55/)<br>
+[SiShiSwap](https://app.sishi.finance/)<br>
 
-- Web Sites (Laravel + Vue, Node + React)
-<table>
-    <thead align="center">
-        <tr>
-            <td>Sellersket-Price</td>
-            <td>Construction Business</td>
-            <td>Monitoring</td>
-            <td>Omula</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://sellersket-price.com/">
-                <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/Image 2.png?raw=true" width="200">
-            </a>
-        </td>        
-        <td>
-            <a href="https://deduraku.sakura.ne.jp/">
-                <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/cms_1.png?raw=true" width="200">
-            </a>
-        </td> 
-        <td>
-            <a href="https://www.m-piece.com/">
-                <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/monitoring_2.png?raw=true" width="200">
-            </a>
-        </td> 
-        <td>
-            <a href="https://omula.com/">
-                <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/omula_1.png?raw=true" width="200">
-            </a>
-        </td>     
-    </tr>
-</table>
+- NFT Dapps
 
-- Mobile Apps (Flutter, ReactNative)
-<table>
-    <thead align="center">
-        <tr>
-            <td>エアレペルソナ</td>
-            <td>Funtivity</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://sellersket-price.com/">
-                <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/airlex_1.png?raw=true" width="200">
-            </a>
-        </td>        
-        <td>
-            <a href="https://deduraku.sakura.ne.jp/">
-                <img src="https://github.com/hosokawa-zen/hosokawa-zen/blob/main/assets/projects/funtivity.png?raw=true" width="200">
-            </a>
-        </td>
-    </tr>
-</table>
+[Funkiverse](https://funkifoxes.com/)<br>
+[CryptoPigs](https://cryptopigs.one/#/)<br>
+[Gost](https://www.m-piece.com/)<br>
+[Paganini](https://nft.s2paganini.com)<br>
+
+- Full Stack Dev
+
+[Sellersket-Price](https://sellersket-price.com/)<br>
+[Construction Business](https://deduraku.sakura.ne.jp/)<br>
+[Monitoring](https://nft.s2paganini.com)<br>
+[Omula](https://omula.com/)<br>
+
+- Mobile Apps
+[エアレペルソナ](https://sellersket-price.com/)<br>
+[Funtivity](https://sellersket-price.com/)<br>
