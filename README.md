@@ -1,11 +1,14 @@
 <h1 align="center">Smart Contract Developer on EVM, Solana, EOS</h1>
-## I am a blockchain developer in DeFi and NFT, DAO projects.
-- Lanuages: Solidity, Rust, C++, Go
-- Fork of PancakeSwap, GooseDeFi, PantherSwap, Pinksale, OlympusDao.
-- NFT Mint websites like Cryptopunks, NFT marketplaces like BSC nft marketplace.
-- Smart contracts for erc20, erc721, erc1155, eip677, eip2535 with token pre-sale, tokenomics, redistribution, auction, airdrop, crowdfunding etc.
+
+## About Me
+- Lanuages: Solidity, Rust, Go, C++, Substrate
+- EVM Smart contracts for erc20, erc721, erc1155, eip677, eip2535 with token pre-sale, tokenomics, redistribution, auction, airdrop, crowdfunding etc.
 - Blockchain Networks: Etherium, BSC, Solana, Tron, Avalanche, Hamony, EOS, Polygon, Telos, WAX, NEO & its derivative chains.
 - Focused in security, upgradability, unit test, gas optimization
+- Most used frameworks: hardhat, truffle, anchor
+- Experienced: swap, staking, pool, airdrop, farming, governance, auction on DeFi, Dex, NFT, DAO
+
+![](https://komarev.com/ghpvc/?username=hiccup1991&label=PROFILE+VIEWS&color=brightgreen)
 
 ### **_Contact Details_**
 
