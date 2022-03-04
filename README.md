@@ -15,13 +15,14 @@
 </p>
 
 ## About Me
-- Lanuages: Solidity, Rust, Go, C++, Substrate
+- Lanuages: Solidity, Rust, Go, C++
 - EVM Smart contracts for erc20, erc721, erc1155, eip677, eip2535 with token pre-sale, tokenomics, redistribution, auction, airdrop, crowdfunding etc.
 - Blockchain Networks: Etherium, BSC, Solana, Tron, Avalanche, Hamony, EOS, Polygon, Telos, WAX, NEO & its derivative chains.
 - Focused in security, upgradability, unit test, gas optimization
 - Most used frameworks: hardhat, truffle, anchor
 - Experienced: swap, staking, pool, airdrop, farming, governance, auction on DeFi, Dex, NFT, DAO
-- Other skills: 
+- Other skills:
+  - Implement private blockchain network with Substrate
   - Migrating frontend to smart contracts with web3.js ethers.js
   - Off-chain BackEnd Apis(Subgraph, Nodejs, GraphQL)
   - AWS, GCP
@@ -71,24 +72,20 @@
 </p>
 
 ### My Projects
-- DeFi
-
-[Theia Finance](https://theia.finance/)<br>
-[CinemaDraft DeFi](http://18.116.235.55/)<br>
-[SiShiSwap](https://app.sishi.finance/)<br>
-- NFT Dapps
-
-[Funkiverse](https://funkifoxes.com/)<br>
-[CryptoPigs](https://cryptopigs.one/#/)<br>
-[Gost](https://www.m-piece.com/)<br>
-[Paganini](https://nft.s2paganini.com)<br>
-- Full Stack Dev
-
-[Sellersket-Price](https://sellersket-price.com/)<br>
-[Construction Business](https://deduraku.sakura.ne.jp/)<br>
-[Monitoring](https://nft.s2paganini.com)<br>
-[Omula](https://omula.com/)<br>
-- Mobile Apps
-
-[エアレペルソナ](https://apps.apple.com/jp/app/%E3%82%A8%E3%82%A2%E3%83%AC%E3%83%9A%E3%83%AB%E3%82%BD%E3%83%8A/id1466592518)<br>
-[Funtivity](https://apps.apple.com/hk/app/funtivity/id1578990168)<br>
+- DeFi<br>
+[Theia Finance](https://theia.finance/), 
+[CinemaDraft DeFi](http://18.116.235.55/), 
+[SiShiSwap](https://app.sishi.finance/)
+- NFT Dapps<br>
+[Funkiverse](https://funkifoxes.com/), 
+[CryptoPigs](https://cryptopigs.one/#/), 
+[Gost](https://www.m-piece.com/), 
+[Paganini](https://nft.s2paganini.com)
+- Full Stack Dev<br>
+[Sellersket-Price](https://sellersket-price.com/), 
+[Construction Business](https://deduraku.sakura.ne.jp/), 
+[Monitoring](https://nft.s2paganini.com), 
+[Omula](https://omula.com/)
+- Mobile Apps<br>
+[エアレペルソナ](https://apps.apple.com/jp/app/%E3%82%A8%E3%82%A2%E3%83%AC%E3%83%9A%E3%83%AB%E3%82%BD%E3%83%8A/id1466592518), 
+[Funtivity](https://apps.apple.com/hk/app/funtivity/id1578990168)
