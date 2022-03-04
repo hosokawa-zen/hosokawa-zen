@@ -1,21 +1,4 @@
 <h2 align="center">Smart Contract Developer on EVM, Solana, EOS</h2>
-
-## About Me
-- Lanuages: Solidity, Rust, Go, C++, Substrate
-- EVM Smart contracts for erc20, erc721, erc1155, eip677, eip2535 with token pre-sale, tokenomics, redistribution, auction, airdrop, crowdfunding etc.
-- Blockchain Networks: Etherium, BSC, Solana, Tron, Avalanche, Hamony, EOS, Polygon, Telos, WAX, NEO & its derivative chains.
-- Focused in security, upgradability, unit test, gas optimization
-- Most used frameworks: hardhat, truffle, anchor
-- Experienced: swap, staking, pool, airdrop, farming, governance, auction on DeFi, Dex, NFT, DAO
-- Other skills: 
-  - Migrating frontend to smart contracts with web3.js ethers.js
-  - Off-chain BackEnd Apis(Subgraph, Nodejs, GraphQL)
-  - AWS, GCP
-  - Full Stack Development(Meteor, Express, Django, Laravel)
-  - DBMS (MongoDB, MySQL, PostgreSQL, SQLServer)
-
-### Contact Me
-
 <p align='center'>
 <a href="https://t.me/hosokawazen" target="_blank">
   <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
@@ -30,9 +13,21 @@
   <img src="https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
+## About Me
+- Lanuages: Solidity, Rust, Go, C++, Substrate
+- EVM Smart contracts for erc20, erc721, erc1155, eip677, eip2535 with token pre-sale, tokenomics, redistribution, auction, airdrop, crowdfunding etc.
+- Blockchain Networks: Etherium, BSC, Solana, Tron, Avalanche, Hamony, EOS, Polygon, Telos, WAX, NEO & its derivative chains.
+- Focused in security, upgradability, unit test, gas optimization
+- Most used frameworks: hardhat, truffle, anchor
+- Experienced: swap, staking, pool, airdrop, farming, governance, auction on DeFi, Dex, NFT, DAO
+- Other skills: 
+  - Migrating frontend to smart contracts with web3.js ethers.js
+  - Off-chain BackEnd Apis(Subgraph, Nodejs, GraphQL)
+  - AWS, GCP
+  - Full Stack Development(Meteor, Express, Django, Laravel)
+  - DBMS (MongoDB, MySQL, PostgreSQL, SQLServer)
 
 ### Activities
-
 <p>
   <a href="https://github.com/hosokawa-zen/" >
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hosokawa-zen&count_private=true&show_icons=true&theme=tokyonight" height="180px"/>
@@ -44,7 +39,6 @@
  </p>  
 
 ## 🔧 Technologies & 📖 Languages
-
 <p align="left">
     <a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer"> <img
             src="https://docs.soliditylang.org/en/v0.8.10/_static/logo.svg" alt="solidity" width="40"
@@ -75,29 +69,21 @@
 </a>
 </p>
 
-
 ### My Projects
-
 - DeFi
-
 [Theia Finance](https://theia.finance/)<br>
 [CinemaDraft DeFi](http://18.116.235.55/)<br>
 [SiShiSwap](https://app.sishi.finance/)<br>
-
 - NFT Dapps
-
 [Funkiverse](https://funkifoxes.com/)<br>
 [CryptoPigs](https://cryptopigs.one/#/)<br>
 [Gost](https://www.m-piece.com/)<br>
 [Paganini](https://nft.s2paganini.com)<br>
-
 - Full Stack Dev
-
 [Sellersket-Price](https://sellersket-price.com/)<br>
 [Construction Business](https://deduraku.sakura.ne.jp/)<br>
 [Monitoring](https://nft.s2paganini.com)<br>
 [Omula](https://omula.com/)<br>
-
 - Mobile Apps
-[エアレペルソナ](https://sellersket-price.com/)<br>
-[Funtivity](https://sellersket-price.com/)<br>
+[エアレペルソナ](https://apps.apple.com/jp/app/%E3%82%A8%E3%82%A2%E3%83%AC%E3%83%9A%E3%83%AB%E3%82%BD%E3%83%8A/id1466592518)<br>
+[Funtivity](https://apps.apple.com/hk/app/funtivity/id1578990168)<br>
