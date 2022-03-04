@@ -7,10 +7,14 @@
 - Focused in security, upgradability, unit test, gas optimization
 - Most used frameworks: hardhat, truffle, anchor
 - Experienced: swap, staking, pool, airdrop, farming, governance, auction on DeFi, Dex, NFT, DAO
+- Other skills: 
+  - Migrating frontend to smart contracts with web3.js ethers.js
+  - Off-chain BackEnd Apis(Subgraph, Nodejs, GraphQL)
+  - AWS, GCP
+  - Full Stack Development(Meteor, Express, Django, Laravel)
+  - DBMS (MongoDB, MySQL, PostgreSQL, SQLServer)
 
-![](https://komarev.com/ghpvc/?username=hosokawa-zen&label=PROFILE+VIEWS&color=brightgreen)
-
-### **_Contact Details_**
+### Contact Me
 
 <p align='center'>
 <a href="https://t.me/hosokawazen" target="_blank">
@@ -27,6 +31,8 @@
 </a>&nbsp;&nbsp;
 </p>
 
+### Activities
+
 <p>
   <a href="https://github.com/hosokawa-zen/" >
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hosokawa-zen&count_private=true&show_icons=true&theme=tokyonight" height="180px"/>
@@ -40,23 +46,8 @@
 ## 🔧 Technologies & 📖 Languages
 
 <p align="left">
-    <a href="https://ethers.org/" target="_blank" rel="noreferrer"> <img
-            src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" alt="ethereum" width="40"
-            height="40"/> </a>
     <a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer"> <img
             src="https://docs.soliditylang.org/en/v0.8.10/_static/logo.svg" alt="solidity" width="40"
-            height="40"/> </a>
-    <a href="https://www.binance.com/" target="_blank" rel="noreferrer"> <img
-          src="https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png" alt="binance" width="40"
-          height="40"/> </a>
-    <a href="https://www.avax.network/" target="_blank" rel="noreferrer"> <img
-        src="https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png" alt="avalanche" width="40"
-        height="40"/> </a>
-    <a href="https://polygon.technology/" target="_blank" rel="noreferrer"> <img
-        src="https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png" alt="polygon" width="40"
-        height="40"/> </a>
-    <a href="https://solana.com/" target="_blank" rel="noreferrer"> <img
-            src="https://avatars.githubusercontent.com/u/35608259?s=200&v=4" alt="solana" width="40"
             height="40"/> </a>
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40"
@@ -66,25 +57,21 @@
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
         alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank"
-                                                         rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"
-        width="40" height="40"/> </a>
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
         width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+        alt="typescript" width="40" height="40"/> </a>
    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
         alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-        alt="typescript" width="40" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
         alt="react" width="40" height="40"/> </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-         alt="vuejs" width="40" height="40"/> </a>
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+        alt="vuejs" width="40" height="40"/> </a>
 </a>
 </p>
 
