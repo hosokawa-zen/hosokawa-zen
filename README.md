@@ -1,4 +1,4 @@
-<h2 align="center">Smart Contract Developer on EVM, Solana, EOS</h2>
+<h2 align="center">Smart Contract Developer on EVM, Solana, Substrate</h2>
 <p align='center'>
 <a href="https://t.me/hosokawazen" target="_blank">
   <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
