@@ -17,10 +17,11 @@
 ## About Me
 - Lanuages: Solidity, Rust, Go, C++
 - EVM Smart contracts for erc20, erc721, erc1155, eip677, eip2535 with token pre-sale, tokenomics, redistribution, auction, airdrop, crowdfunding etc.
-- Blockchain Networks: Etherium, BSC, Solana, Tron, Avalanche, Hamony, EOS, Polygon, Telos, WAX, NEO & its derivative chains.
+- Blockchain Networks: Etherium, BSC, Solana, Tron, Avalanche, Hamony, Polygon.
 - Focused in security, upgradability, unit test, gas optimization
 - Most used frameworks: hardhat, truffle, anchor
 - Experienced: swap, staking, pool, airdrop, farming, governance, auction on DeFi, Dex, NFT, DAO
+- Construct the subgraph
 - Other skills:
   - Implement private blockchain network with Substrate
   - Migrating frontend to smart contracts with web3.js ethers.js
