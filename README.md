@@ -1,22 +1,8 @@
 <h2 align="center">Smart Contract Developer on EVM, Solana, Substrate</h2>
-<p align='center'>
-<a href="https://t.me/hosokawazen" target="_blank">
-  <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/hosokawa-zen-1a9193181/"  target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="mailto:kzar@gmail.com">
-  <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://discordapp.com/users/Hosokawa-Zen#1233">
-  <img src="https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=discord&logoColor=white" />
-</a>&nbsp;&nbsp;
-</p>
 
 ## About Me
-- Lanuages: Solidity, Rust, Go, C++
-- EVM Smart contracts for erc20, erc721, erc1155, eip677, eip2535 with token pre-sale, tokenomics, redistribution, auction, airdrop, crowdfunding etc.
+- Lanuages: Solidity, Rust, Go, Typescript
+- EVM Smart contracts for erc20, erc721, erc1155, eip677, eip2535 with token pre-sale, tokenomics, redistribution, auction, airdrop etc.
 - Blockchain Networks: Etherium, BSC, Solana, Tron, Avalanche, Hamony, Polygon.
 - Focused in security, upgradability, unit test, gas optimization
 - Most used frameworks: hardhat, truffle, anchor
