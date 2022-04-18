@@ -1,5 +1,3 @@
-<h2 align="center">Smart Contract Developer on EVM, Solana, Substrate</h2>
-
 ## About Me
 - Lanuages: Solidity, Rust, Go, Typescript
 - EVM Smart contracts for erc20, erc721, erc1155, eip677, eip2535 with token pre-sale, tokenomics, redistribution, auction, airdrop etc.
