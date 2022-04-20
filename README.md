@@ -14,17 +14,6 @@
   - Full Stack Development(Meteor, Express, Django, Laravel)
   - DBMS (MongoDB, MySQL, PostgreSQL, SQLServer)
 
-### Activities
-<p>
-  <a href="https://github.com/hosokawa-zen/" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hosokawa-zen&count_private=true&show_icons=true&theme=tokyonight" height="180px"/>
-  </a>
-  
-  <a href="https://github.com/hosokawa-zen/hosokawa-zen" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=hosokawa-zen&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=java,html,javascript,css,scss,vue,objective-c,swift,blade,dart,php,tsql,shell,batchfile" alt="Hosokawa's GitHub Stats" height="180px"/>
-  </a>
- </p>  
-
 ## Main Languages
 <p align="left">
     <a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer"> <img
