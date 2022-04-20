@@ -47,7 +47,6 @@
 
 ### My Projects
 - DeFi<br>
-[Theia Finance](https://theia.finance/), 
 [CinemaDraft DeFi](http://18.116.235.55/), 
 [SiShiSwap](https://app.sishi.finance/)
 - NFT Dapps<br>
