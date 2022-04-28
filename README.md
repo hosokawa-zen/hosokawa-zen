@@ -3,7 +3,7 @@
 - EVM Smart contracts for erc20, erc721, erc1155, eip677, eip2535 with token pre-sale, tokenomics, redistribution, auction, airdrop etc.
 - Blockchain Networks: Etherium, BSC, Solana, Tron, Avalanche, Hamony, Polygon.
 - Focused in security, upgradability, unit test, gas optimization
-- Most used frameworks: hardhat, truffle, anchor
+- Most used frameworks: hardhat, truffle, anchor, substrate
 - Experienced: swap, staking, pool, airdrop, farming, governance, auction on DeFi, Dex, NFT, DAO
 - Construct the subgraph
 - Other skills:
